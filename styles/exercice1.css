@@ -1,0 +1,14 @@
+div{
+    border: 2px solid black;
+    padding: 40px;
+}
+#div1{
+    background-color: green;
+    margin-right: 1000px;
+}
+#div2{
+    background-color: rgb(91, 23, 119);
+}
+#div3{
+    background-color: rgb(255, 145, 10);
+}

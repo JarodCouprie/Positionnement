@@ -1,0 +1,32 @@
+div{
+    border: 2px solid black;
+    position: relative;
+}
+#divParent{
+    width: 700px;
+    height: 462px;
+    padding: 44px;
+}
+.divEnfant{
+    width: 150px;
+    height: 150px;
+}
+#divEnfantVerte{
+    background-color: green;
+    float: left;
+}
+#divEnfantBleue{
+    background-color: rgb(91, 23, 119,0.5);
+    float: left;
+}
+#divEnfantOrange{
+    background-color: rgb(255, 145, 10,0.2);
+    width: 600px;
+    height: 150px;
+}
+#divEnfantGrise{
+    background-color: grey;
+}
+#divEnfantJaune{
+    background-color: yellow;
+}

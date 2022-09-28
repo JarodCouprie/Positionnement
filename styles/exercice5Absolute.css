@@ -1,0 +1,33 @@
+div{
+    border: 2px solid black;
+    position: absolute;
+}
+#divParent{
+    background-color: rgb(168, 233, 247);
+    width: 398px;
+    height: 398px;
+}
+.divEnfant{
+    width: 150px;
+    height: 150px;
+    }
+#divEnfant1{
+    background-color: green;
+    left: 30px;
+    top: 30px;
+}
+#divEnfant2{
+    background-color: rgb(91, 23, 119);
+    right: 30px;
+    top: 30px;
+}
+#divEnfant3{
+    background-color: rgb(255, 145, 10);
+    left: 30px;
+    bottom: 30px;
+}
+#divEnfant4{
+    background-color: yellow;
+    right: 30px;
+    bottom: 30px;
+}
