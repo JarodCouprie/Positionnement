@@ -16,17 +16,20 @@ div{
     float: left;
 }
 #divEnfantBleue{
-    background-color: rgb(91, 23, 119,0.5);
+    background-color: rgb(91, 23, 119);
     float: left;
 }
 #divEnfantOrange{
-    background-color: rgb(255, 145, 10,0.2);
-    width: 600px;
+    background-color: rgb(255, 145, 10);
+    width: 696px;
     height: 150px;
+    clear: both;
 }
 #divEnfantGrise{
     background-color: grey;
+    float: right;
 }
 #divEnfantJaune{
     background-color: yellow;
+    float: right;
 }
