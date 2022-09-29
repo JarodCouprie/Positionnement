@@ -1,6 +1,6 @@
 div{
     border: 2px solid black;
-    padding: 60px;
+    padding: 40px;
 }
 #div1{
     background-color: green;
@@ -12,6 +12,6 @@ div{
 #div3{
     background-color: rgb(255, 145, 10);
     position: absolute;
-    left: 350px;
-    top: 300px;
+    left: 200px;
+    top: 210px;
 }
